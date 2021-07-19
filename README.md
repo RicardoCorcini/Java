@@ -1,2 +1,4 @@
 # ogoCObrinha
-Jogo da CObrinha
+Jogo da Cobrinha
+Desenvolvido para estudo 
+
