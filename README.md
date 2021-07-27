@@ -1,4 +1,2 @@
-# JogoCobrinha
-Jogo da Cobrinha
-Desenvolvido para estudo 
+Reposótorio para sistemas em Java
 
